@@ -2,11 +2,7 @@
 
 # Project Name
 
-> Hello MIcroverse Project
 
-![screenshot](./images/screenshot.png)
-
-A simple HTML webpage to display Hello Microverse!.
 
 ## Built With
 
@@ -15,10 +11,11 @@ A simple HTML webpage to display Hello Microverse!.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/t-yanick/hello-world/hello-microverse/index.html)
+
 
 
 ## Getting Started
+
 
 
 To get a local copy up and running follow these simple example steps.
