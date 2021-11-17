@@ -2,11 +2,11 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hello MIcroverse Project
 
 ![screenshot](./images/screenshot.png)
 
-Additional description about the project and its features.
+A simple HTML webpage to display Hello Microverse!.
 
 ## Built With
 
