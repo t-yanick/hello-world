@@ -2,7 +2,11 @@
 
 # Project Name
 
+Hello Microverse Project
 
+![Screenshot](./images/screenshot.png)
+
+A simple HTML webpage to display the text "Hello Microverse!"
 
 ## Built With
 
@@ -11,8 +15,7 @@
 
 ## Live Demo
 
-
-
+[View Demo here](https://raw.githack.com/t-yanick/hello-world/hello-microverse/index.html)
 
 ## Getting Started
 
@@ -46,7 +49,7 @@ Open the index.html file in the web browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/t-yanick/hello-world/issues/).
 
 ## Show your support
 
@@ -60,4 +63,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](www.mit.org) licensed.
